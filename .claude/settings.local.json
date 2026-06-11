@@ -6,7 +6,13 @@
       "Bash(gunzip -k design.gz)",
       "Bash(mkdir -p /tmp/divex-design)",
       "Bash(tar -xf /tmp/design -C /tmp/divex-design)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(npx tsc *)",
+      "Bash(node *)",
+      "Bash(curl -s http://localhost:3010/app)",
+      "Bash(curl -s -o /dev/null -w '/__TRACKED_VAR__ -> %{http_code}\\\\n' http://localhost:3000/__TRACKED_VAR__)",
+      "Bash(curl -s http://localhost:3000/careers)",
+      "Bash(curl -s http://localhost:3000/)"
     ]
   }
 }

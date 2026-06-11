@@ -1,0 +1,15 @@
+<svg width="260" height="72" viewBox="0 0 260 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Divex">
+  <defs>
+    <linearGradient id="wmDescent" x1="36" y1="8" x2="36" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14365E"></stop><stop offset="0.5" stop-color="#0A2540"></stop><stop offset="1" stop-color="#081018"></stop>
+    </linearGradient>
+    <linearGradient id="wmSpark" x1="20" y1="32" x2="52" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8453"></stop><stop offset="1" stop-color="#ED5320"></stop>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="56" height="56" rx="16" fill="url(#wmDescent)"></rect>
+  <path d="M22 27c2.3-3 4.7-3 7 0s4.7 3 7 0 4.7-3 7 0 4.7 3 7 0" stroke="#20C5C6" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M26 35l10 7.5 10-7.5" stroke="url(#wmSpark)" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M29.5 45l6.5 5 6.5-5" stroke="#FF6B35" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"></path>
+  <text x="80" y="48" font-family="&#39;Space Grotesk&#39;,&#39;Plus Jakarta Sans&#39;,sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#081018">Divex</text>
+</svg>
