@@ -1,0 +1,19 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Divex">
+  <defs>
+    <linearGradient id="dvxDescent" x1="48" y1="0" x2="48" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14365E"></stop>
+      <stop offset="0.5" stop-color="#0A2540"></stop>
+      <stop offset="1" stop-color="#081018"></stop>
+    </linearGradient>
+    <linearGradient id="dvxSpark" x1="30" y1="40" x2="66" y2="78" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8453"></stop>
+      <stop offset="1" stop-color="#ED5320"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="26" fill="url(#dvxDescent)"></rect>
+  
+  <path d="M24 34c4-5 8-5 12 0s8 5 12 0 8-5 12 0 8 5 12 0" stroke="#20C5C6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+  
+  <path d="M32 48l16 12 16-12" stroke="url(#dvxSpark)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M37 64l11 8 11-8" stroke="#FF6B35" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"></path>
+</svg>
